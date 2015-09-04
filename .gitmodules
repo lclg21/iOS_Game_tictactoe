@@ -1,0 +1,3 @@
+[submodule "reddit_project"]
+	path = reddit_project
+	url = git://github.com/lclg21/iOS_Game_tictactoe
